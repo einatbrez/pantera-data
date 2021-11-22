@@ -2,12 +2,7 @@
     "sections": [
       {
         "title": "Section 1", 
-        "content":"This is a good, general theoretical overview of how to manage a team. It advocates a collaborative hacker-friendly management style that values excellence and transparency. It is, however, relatively
- abstract. It’s a good conceptual basis, and usefully
- provides the metaphors and explanations you’ll
- need to communicate this kind of management
- style to other managers. But it won’t give you the
-nitty-gritty of how to implement it"
+        "content":"This is a good, general theoretical overview of how to manage a team. It advocates a collaborative hacker-friendly management style that values excellence and transparency. It is, however, relatively abstract. It’s a good conceptual basis, and usefully provides the metaphors and explanations you’ll need to communicate this kind of management style to other managers. But it won’t give you the nitty-gritty of how to implement it"
       },
       {
         "title": "Section 2", 
